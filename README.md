@@ -1,4 +1,2 @@
-- Im Lui
-- I mainly code in python and c++ 
-- I’m currently learning c++
-- How to reach me Discord: Lui#9833
+This is realy simple Python spambot.
+Im just starting out coding so this is not the best.
