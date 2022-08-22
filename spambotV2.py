@@ -25,7 +25,7 @@ time.sleep(0.5)
 choice = input("Choose your spam(1/2/3/4)")
 
 while (count < 1):
-    time.sleep(0,5)
+    time.sleep(0.5)
     if choice in ('1', '2', '3', '4'):
         if choice == "1":
             keyboard.write(pen)
